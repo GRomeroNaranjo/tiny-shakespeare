@@ -68,6 +68,8 @@ When moonlight strikes the ivy'd stone, what secrets wake beneath the throne?
     the sun of a double baser and a double black of purd'ring
     the sun of a dragon, a dragon, a dragon, a drawer
 
+Below you will find the training-curve for both val, and train losses, where both simultaneously decrease progressively serving at an indicator on how this model was not prone to extensive overfitting.
+
 ![training-curve](training-curve)
 
 
