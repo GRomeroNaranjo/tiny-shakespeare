@@ -72,5 +72,10 @@ Below you will find the training-curve for both val, and train losses, where bot
 
 ![training-curve](training-curve)
 
+# attributions
+Below you will find some attributions for this project:
+- The minbpe library was developed my Andrej Karpathy, an extensively recognized deep learning engineer. For more information, attached will be the minbpe repository ![minbpe repository](https://github.com/karpathy/minbpe)
+- Furthermore, this project has used The Complete Works of William Shakespeare as the dataset, where the link will be attached ![dataset link](https://www.gutenberg.org/ebooks/100)
+
 
 
