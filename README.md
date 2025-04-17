@@ -69,13 +69,13 @@ When moonlight strikes the ivy'd stone, what secrets wake beneath the throne?
     the sun of a dragon, a dragon, a dragon, a drawer
 
 Below you will find the training-curve for both val, and train losses, where both simultaneously decrease progressively serving at an indicator on how this model was not prone to extensive overfitting.
-
 ![training-curve](training-curve)
+Overall, it is left evident that the model is not without limitations, where it only effectively captures the outer scope of how Shakespeare used to write. However, considering how little this model is, it has demonstrated solid performance altogether.
 
 # attributions
 Below you will find some attributions for this project:
-- The minbpe library was developed my Andrej Karpathy, an extensively recognized deep learning engineer. For more information, attached will be the minbpe repository ![minbpe repository](https://github.com/karpathy/minbpe)
-- Furthermore, this project has used The Complete Works of William Shakespeare as the dataset, where the link will be attached ![dataset link](https://www.gutenberg.org/ebooks/100)
+- The minbpe library was developed my Andrej Karpathy, an extensively recognized deep learning engineer. For more information, attached will be the minbpe repository [minbpe repository](https://github.com/karpathy/minbpe)
+- Furthermore, this project has used The Complete Works of William Shakespeare as the dataset, where the link will be attached [dataset link](https://www.gutenberg.org/ebooks/100)
 
 
 
