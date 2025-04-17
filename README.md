@@ -77,7 +77,7 @@ Overall, it is left evident that the model is not without limitations, where it 
 Below you will find some attributions for this project:
 - The minbpe library was developed my Andrej Karpathy, an extensively recognized deep learning engineer. For more information, attached will be the minbpe repository [minbpe repository](https://github.com/karpathy/minbpe) (this implies that the directory in this repository called minbpe was not developed by me, but rather by Andrej Karpathy)
 - Furthermore, this project has used The Complete Works of William Shakespeare as the dataset, where the link will be attached [dataset link](https://www.gutenberg.org/ebooks/100)
-- While not an explicit attribution, here you will find the link to the hugging-face repository where the model parameters are stored ![hugging_face](https://huggingface.co/GRomeroNaranjo/mini-shakespeare)
+- While not an explicit attribution, here you will find the link to the hugging-face repository where the model parameters are stored [hugging_face](https://huggingface.co/GRomeroNaranjo/mini-shakespeare)
 
 
 
