@@ -1,4 +1,5 @@
 # tiny-shakespeare
+![front-image](images/front-image)
 This repository aims to implement the decoder transformer architecture for generating infinite Shakespearean text. Particularly, employing the use of PyTorch and Andrej Karpathy's minbpe library as the primary modules. The trained transformer consists of an embed size of 384, 8 heads, 12 layers, and a block size of 256, where this in turn corresponds to approximatey 22 million parameters, all contributing towards the success of the model. This ReadME file will provide information regarding the technical details of the model, as well as featuring some model generations, and loss training curve. Moreover, this ReadME will outline the key steps in installing this tiny-shakespeare configuration and also training it.
 
 
@@ -69,7 +70,7 @@ When moonlight strikes the ivy'd stone, what secrets wake beneath the throne?
     the sun of a dragon, a dragon, a dragon, a drawer
 
 Below you will find the training-curve for both val, and train losses, where both simultaneously decrease progressively serving at an indicator on how this model was not prone to extensive overfitting.
-![training-curve](training-curve)
+![training-curve](images/training-curve)
 Overall, it is left evident that the model is not without limitations, where it only effectively captures the outer scope of how Shakespeare used to write. However, considering how little this model is, it has demonstrated solid performance altogether.
 
 # attributions
