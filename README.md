@@ -68,7 +68,7 @@ When moonlight strikes the ivy'd stone, what secrets wake beneath the throne?
     the sun of a double baser and a double black of purd'ring
     the sun of a dragon, a dragon, a dragon, a drawer
 
-!(training-curve)
+!(training-curve.png)
 
 
 
