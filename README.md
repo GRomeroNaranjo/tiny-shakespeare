@@ -69,7 +69,7 @@ When moonlight strikes the ivy'd stone, what secrets wake beneath the throne?
     the sun of a double baser and a double black of purd'ring
     the sun of a dragon, a dragon, a dragon, a drawer
 
-Below you will find the training-curve for both val, and train losses, where both simultaneously decrease progressively serving at an indicator on how this model was not prone to extensive overfitting.
+Below you will find the training-curve for both val, and train losses, where both simultaneously decrease progressively serving at an indicator on how this model was not prone to extensive overfitting (note that each batch in the x axis represents 100 batches).
 ![training-curve](images/training-curve)
 Overall, it is left evident that the model is not without limitations, where it only effectively captures the outer scope of how Shakespeare used to write. However, considering how little this model is, it has demonstrated solid performance altogether.
 
